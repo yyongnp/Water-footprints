@@ -1,0 +1,365 @@
+@font-face {
+    font-family: 'psl-omyimregular';
+    src: url('psl-omyim-webfont.eot');
+    src: url('psl-omyim-webfont.eot?#iefix') format('embedded-opentype'),
+         url('psl-omyim-webfont.woff2') format('woff2'),
+         url('psl-omyim-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+}
+html{
+
+}
+
+body{
+    margin:auto;
+    font-family:'psl-omyimregular';
+    font-size: 30px;
+    font-weight: 200;
+    text-align: center;
+    height: auto;
+    position: relative;
+    
+
+}
+.boxend{
+    height: 20px;
+    
+}
+.backtotop{
+  width: 50%;
+  float: left;
+}
+.btbox{
+    width: 300px;
+    margin: auto;
+}
+.boxped{
+ background-color:#FDE0DD;
+    border: 0px;
+    border-color: transparent;
+    border-radius: 30px;
+    width: 355px;
+    height: auto;
+    margin: auto;
+    font-size: 24px;
+}
+button{
+    background-color: transparent;
+    border-color: transparent;
+    width: 120px;
+    
+}
+.basket{
+margin: auto;
+width: 100%;
+margin-top: 20%;
+}
+.basketbox{
+width: 200px;
+height: 200px;
+margin: auto;
+    }
+.bath{
+ width: 50%;
+    margin: auto;
+}
+.bub{
+margin: auto;
+height: 130px;
+margin-left: 5%;
+
+}
+.bubrow{
+width: 100%;
+margin: auto;
+height: 250px;
+}
+.bib{
+float:left;
+width: 30%;
+}
+.bt{
+width: 100px;
+margin: auto;
+text-align: center;
+}
+.clott{
+margin: auto;
+width: 100%;
+margin-top: 10%;
+}
+.clobox{
+   height: 200px;
+    width: 200px;
+    margin: auto;
+}
+.door{
+margin: auto;
+width: 100%;
+}
+.doorbox{
+    height: 250px;
+    width: 270px;
+    margin: auto; 
+}
+.ft0{
+    background-image: url(SVG/watersm0.svg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 110px;
+    width: 100%;
+}
+
+.ft1{
+    background-image: url(SVG/watersm0.svg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 110px;
+}
+.ft2{
+    background-image: url(SVG/watersm0.svg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 110px;
+}
+.ft3{
+    background-image: url(SVG/watersm0.svg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 110px;
+}
+.ft4{
+    background-image: url(SVG/watersm0.svg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 110px;
+}
+.ft5{
+    background-image: url(SVG/watersm0.svg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 110px;
+    
+}
+.ft6{
+    background-image: url(SVG/watersm0.svg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 110px;
+}
+.ft7{
+    background-image: url(SVG/watersm0.svg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 110px;
+}
+.ft8{
+    background-image: url(SVG/watersm0.svg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 110px;
+}
+.ft9{
+    background-image: url(SVG/watersm0.svg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 110px;
+}
+.ft10{
+    background-image: url(SVG/watersm0.svg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 110px;
+}
+.ft11{
+    background-image: url(SVG/watersmped.svg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 100px;
+}
+
+img, button{
+  outline: none;
+}
+.jeans{
+    margin: auto;
+    width: 30%;
+}
+.landu1{
+    margin: auto;
+}
+.landu2{
+    margin: auto;
+}
+.landu3{
+    margin: auto;
+}
+.landu4{
+    margin: auto;
+    width: 35%;
+}
+.landu5{
+    margin: auto;
+    width: 40%;
+}
+
+.okbt{
+  margin: auto;
+margin-bottom: 80%;
+}
+#p1, .page1 {
+background-color:#BBE5EF;
+width: 100%;  
+}
+
+#p2, .page2 {
+background-color:#BBE5EF;
+width: 100%; 
+}
+
+#p3, .page3 {
+background-color:#BBE5EF;
+width: 100%; 
+}
+
+#p4, .page4 {
+background-color:#BBE5EF;
+width: 100%;    
+}
+#p5, .page5 {
+background-color:#BBE5EF;
+width: 100%;
+}
+
+#p6, .page6 {
+background-color:#BBE5EF;
+
+width: 100%;
+}
+#p7, .page7 {
+background-color:#BBE5EF;
+
+width: 100%;
+}
+
+#p8, .page8 {
+background-color:#BBE5EF;
+width: 100%; 
+}
+
+#p9, .page9 {
+background-color:#BBE5EF;
+width: 100%; 
+}
+
+#p10, .page10 {
+background-color:#BBE5EF;
+width: 100%; 
+}
+#pageresult, .pageresult{
+background-color:#BBE5EF;
+height: 0%;
+}
+
+
+#pageresult2, .pageresult2{
+background-color:#BBE5EF;
+height: 100%;
+}
+.ending{
+background-color:#BBE5EF;
+height:100%;
+width: 100%;
+background-image: url(SVG/restroom.svg);
+}
+
+.qt{
+    font-family:'psl-omyimregular';
+    font-size: 100px;
+    font-weight: 200;
+    text-align: center;
+    font-weight: normal;
+    font-style: normal;
+    font-stretch: normal;
+    line-height: 1.08;
+    letter-spacing: normal;
+    color: ;
+}
+
+.qtsm{
+margin: auto;
+ text-align: center;
+}
+.startbt{
+width: 25%;
+margin: auto;
+text-align: center;
+margin-bottom: 40%;
+}
+.shoe{
+  text-align: center;
+  margin:auto;
+height: 160px;
+width: 60%;
+}
+
+.shoe1{
+width: 50%;
+float: left;
+}
+.shoe2{
+width: 50%;
+float: right;
+}
+.shoe3{
+width: 50%;
+float: left;
+}
+.shoe4{
+width: 50%;
+float: right;
+}
+.shower{
+margin: auto;
+width: 30%;
+}
+.rowlandu{
+    margin: auto;
+    width: 300px;
+    
+}
+.roopao{ 
+  width: 90%;
+margin: auto;
+}
+.resultbox{
+  margin: auto;
+  width: 300px;
+  height: 630px;
+}
+.resultimg{
+    
+    margin: auto;
+}
+.yarkroo{
+  margin: auto;
+  width: 100%;
+  height: 520px;
+}
+.zoomin img{
+    height:;
+    width:;
+    -webkit-transition: all 0.3s ease;
+    -moz-transition: all 0.3s ease;
+    -ms-transition: all 0.3s ease;
+    transition: all 0.3s ease;
+}
+.zoomin img:hover {
+    -ms-transform: scale(1);
+    -webkit-transform: scale(1);
+    transform: scale(1.30);
+}
+
+}
