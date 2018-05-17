@@ -1,13 +1,27 @@
 anime({
-  targets: 'div.bt',
+  targets: 'div.check1',
   translateY: [
     { value: 5, duration: 1400},
     { value: 0, duration: 900}
   ],
   loop:true,
-    
 });
-
+anime({
+  targets: 'div.check2',
+  translateY: [
+    { value: 5, duration: 1400},
+    { value: 0, duration: 900}
+  ],
+  loop:true,
+});
+anime({
+  targets: 'div.check3',
+  translateY: [
+    { value: 5, duration: 1400},
+    { value: 0, duration: 900}
+  ],
+  loop:true,
+});
 $(document).ready(function(){
         $("#p2").hide();
         $("#p3").hide();
@@ -28,6 +42,7 @@ $(document).ready(function(){
         $("#next8").hide();
         $("#subb").hide();
         $("#ending").hide();
+    $("check1").hide();
 
     });
     $("#top").click(function(){
@@ -50,11 +65,14 @@ $(document).ready(function(){
       $("#next8").hide();
       $("#subb").hide();
       $("#ending").hide();
+    
 });
     $("#start").click(function(){
     $("#p2").show();
+        
 });
-        $("#myRange1").click(function(){
+
+        $("#check1").click(function(){
         $("#p3").show();
         $("#next2").show();
     });
@@ -62,8 +80,6 @@ $(document).ready(function(){
     $("#bt3a").click(function(){
     $("#p4").show();
     $("#next3").show();
-
-
     });
     $("#bt3b").click(function(){
     $("#p4").show();
@@ -78,7 +94,7 @@ $(document).ready(function(){
     $("#next3").show();
     });
 
-    $("#myRange2").click(function(){
+    $("#check2").click(function(){
     $("#p5").show();
     $("#next4").show();
     });
@@ -130,7 +146,7 @@ $(document).ready(function(){
     $("#p9").show();
     $("#next8").show();
     });
-    $("#myRange3").click(function(){
+    $("#check3").click(function(){
     $("#p10").show();
     $("#subb").show();
     });
@@ -142,3 +158,5 @@ $(document).ready(function(){
     $("#roopao").click(function(){
     $("#ending").show();
     });
+
+ 

@@ -95,6 +95,24 @@ margin-top: 10%;
     width: 200px;
     margin: auto;
 }
+.check1{
+    width:15%;
+    float:right;
+    margin-right: 10%;
+    padding-right: 30px;
+}
+.check2{
+    width:15%;
+    float:right;
+    margin-right: 10%;
+    padding-right: 30px;
+}
+.check3{
+    width:15%;
+    float:right;
+    margin-right: 10%;
+    padding-right: 30px;
+}
 .door{
 margin: auto;
 width: 100%;
