@@ -115,12 +115,13 @@ margin-top: 10%;
 }
 .door{
 margin: auto;
-width: 100%;
+width: 90%;
 }
 .doorbox{
     height: 200px;
     width: 270px;
-    margin: auto; 
+    margin: auto;
+    margin-bottom: 30px;
 }
 .ft0{
     background-image: url(watersm0.svg);
