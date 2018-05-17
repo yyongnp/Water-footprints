@@ -159,6 +159,21 @@ clickpop19.src = "pop.m4a";
 function popsound19(){
   clickpop19.play();
 }
+var clickpop20 = new Audio();
+clickpop20.src = "pop.m4a";
+function popsound20(){
+  clickpop20.play();
+}
+var clickpop21 = new Audio();
+clickpop21.src = "pop.m4a";
+function popsound21(){
+  clickpop21.play();
+}
+var clickpop22 = new Audio();
+clickpop22.src = "pop.m4a";
+function popsound22(){
+  clickpop22.play();
+}
 var back1 = new Audio();
 back1.src = "back.m4a";
 function flashback1(){

@@ -42,7 +42,6 @@ $(document).ready(function(){
         $("#next8").hide();
         $("#subb").hide();
         $("#ending").hide();
-    $("check1").hide();
 
     });
     $("#top").click(function(){

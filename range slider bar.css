@@ -34,16 +34,16 @@
 
 .slidecontainer {
     width: 100%; /* Width of the outside container */
-    text-align: center;
-    
+    margin: auto;
+    height:90px;
 }
 .slidecontainerdoor {
     width: 100%; /* Width of the outside container */
-    text-align: center
-    height:50px;
+    text-align: center;
+    height:90px;
 }
 .slidecontainercloth {
     width: 100%; /* Width of the outside container */
-    text-align: center
-    height:50px;
+    text-align: center;
+    height:90px;
 }
