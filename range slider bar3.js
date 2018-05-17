@@ -10,7 +10,7 @@ myRange3.oninput = function() {
 
 output3.innerHTML = 'ลองเลื่อนดูว่ากี่';
 slider3.oninput = function() {
-outputimg3.src = 'SVG/door'+this.value+'.svg';
+outputimg3.src = 'door'+this.value+'.svg';
 if (slider3.value == 1){
     output3.innerHTML = '4-10';
 } else if (slider3.value == 2){

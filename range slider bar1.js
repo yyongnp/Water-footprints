@@ -12,5 +12,5 @@ output1.innerHTML = slider1.value;
 
 slider1.oninput = function() {
 output1.innerHTML = this.value;
-outputimg1.src = 'SVG/clot'+this.value+'.svg';
+outputimg1.src = 'clot'+this.value+'.svg';
 }

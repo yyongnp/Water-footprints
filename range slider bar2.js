@@ -12,7 +12,7 @@ output2.innerHTML = slider2.value;
 
 slider2.oninput = function() {
 output2.innerHTML = this.value;
-outputimg2.src = 'SVG/cl'+this.value+'.svg';
+outputimg2.src = 'cl'+this.value+'.svg';
 if(slider2.value == 0){
   output2.innerHTML = '7ตัว';
 } else if (slider2.value == 1){
