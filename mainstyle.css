@@ -226,7 +226,12 @@ img, button{
 
 .okbt{
   margin: auto;
-margin-bottom: 80%;
+    width: 34%;
+    height: 15%;
+margin-bottom: 30%;
+    background-image: url(btsubmit2.png);
+    background-size: cover;
+    
 }
 #p1, .page1 {
 background-color:#BBE5EF;
