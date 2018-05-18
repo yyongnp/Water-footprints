@@ -226,12 +226,11 @@ img, button{
 
 .okbt{
   margin: auto;
-    width: 122px;
-    height: 70px;
-margin-bottom: ;
-    background-image: url(btsubmit2.png);
-    background-size: cover;
-    
+  width: 130px;
+}
+.ok{
+    margin: auto;
+    width: 100%;
 }
 #p1, .page1 {
 background-color:#BBE5EF;
@@ -288,7 +287,7 @@ width: 100%;
 
 #pageresult, .pageresult{
 background-color:#BBE5EF;
-
+height: 700px;
 }
 
 
