@@ -4,6 +4,8 @@ var outputimg1 = document.getElementById("clothimg1");
 
 
 myRange1.oninput = function() {
+          $("#p3").show();
+        $("#next2").show();
   output1.innerHTML = this.value;
   return x = +this.value;
 }
@@ -13,4 +15,6 @@ output1.innerHTML = slider1.value;
 slider1.oninput = function() {
 output1.innerHTML = this.value;
 outputimg1.src = 'clot'+this.value+'.svg';
+$("#p3").show();
+$("#next2").show();
 }
