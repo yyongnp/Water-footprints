@@ -20,12 +20,12 @@ body{
     text-align: center;
     height: auto;
     position: relative;
-    
+
 
 }
 .boxend{
     height: 20px;
-    
+
 }
 .backtotop{
   width: 50%;
@@ -49,7 +49,7 @@ button{
     background-color: transparent;
     border-color: transparent;
     width: 120px;
-    
+
 }
 .basket{
 margin: auto;
@@ -85,6 +85,30 @@ width: 100px;
 margin: auto;
 text-align: center;
 }
+.cr,#cr{
+position: fixed;
+
+bottom: 0;
+width: 100%;
+height: 100px;
+background-color: red;
+}
+.c1{
+  width: 100px;
+  height: 100px;
+  float: left;
+  background-image: url(cr01.svg);
+  background-position: center;
+  background-repeat: no-repeat;
+}
+.c2{
+  width: 80px;
+  height: 80px;
+  float: right;
+  background-image: url(ct.svg);
+  background-position: center;
+  background-repeat: no-repeat;
+}
 .clott{
 margin: auto;
 width: 100%;
@@ -99,14 +123,14 @@ margin-top: 10%;
     width:40px;
     float:right;
     margin-right: 5%;
-    
+
 
 }
 .check2{
     width:40px;
     float:right;
     margin-right: 5%;
-    
+
 }
 .check3{
     width:40px;
@@ -160,7 +184,7 @@ width: 90%;
     background-repeat: no-repeat;
     background-size: cover;
     height: 110px;
-    
+
 }
 .ft6{
     background-image: url(watersm0.svg);
@@ -232,20 +256,26 @@ img, button{
     margin: auto;
     width: 100%;
 }
+.opengirl{
+  width: 300px;
+  height: auto;
+  margin: auto;
+}
 #p1, .page1 {
 background-color:#BBE5EF;
-width: 100%;  
+width: 100%;
+height: 100%;
 }
 
 #p2, .page2 {
 background-color:#BBE5EF;
 width: 100%;
-height:; 
+height:;
 }
 
 #p3, .page3 {
 background-color:#BBE5EF;
-width: 100%; 
+width: 100%;
 }
 
 #p4, .page4 {
@@ -272,17 +302,17 @@ width: 100%;
 
 #p8, .page8 {
 background-color:#BBE5EF;
-width: 100%; 
+width: 100%;
 }
 
 #p9, .page9 {
 background-color:#BBE5EF;
-width: 100%; 
+width: 100%;
 }
 
 #p10, .page10 {
 background-color:#BBE5EF;
-width: 100%; 
+width: 100%;
 }
 
 #pageresult, .pageresult{
@@ -304,7 +334,7 @@ background-image: url(restroom.svg);
 
 .qt{
     font-family:'psl-omyimregular';
-    font-size: 100px;
+    font-size: 60px;
     font-weight: 200;
     text-align: center;
     font-weight: normal;
@@ -358,9 +388,9 @@ width: 30%;
     width: 300px;
     height: 300px;
     font-size: 18px;
-    
+
 }
-.roopao{ 
+.roopao{
   width: 90%;
 margin: auto;
 }
@@ -390,4 +420,3 @@ margin: auto;
     -webkit-transform: scale(1);
     transform: scale(1.30);
 }
-

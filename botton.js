@@ -23,6 +23,7 @@ anime({
   loop:true,
 });
 $(document).ready(function(){
+        $("#cr").show();
         $("#p2").hide();
         $("#p3").hide();
         $("#p4").hide();
@@ -42,6 +43,7 @@ $(document).ready(function(){
         $("#next8").hide();
         $("#subb").hide();
         $("#ending").hide();
+
 
     });
     $("#top").click(function(){
@@ -64,11 +66,11 @@ $(document).ready(function(){
       $("#next8").hide();
       $("#subb").hide();
       $("#ending").hide();
-    
+
 });
     $("#start").click(function(){
     $("#p2").show();
-        
+
 });
 
         $("#check1").click(function(){
@@ -157,5 +159,3 @@ $(document).ready(function(){
     $("#roopao").click(function(){
     $("#ending").show();
     });
-
- 
